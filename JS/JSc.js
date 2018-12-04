@@ -19,3 +19,12 @@ let relog = {
 
 console.log(relog());
 
+
+let dados = {
+    isbn:"",
+    titulo:"",
+    autor:"",
+    editora:"",
+    ano: ,
+    quantidade:
+}
